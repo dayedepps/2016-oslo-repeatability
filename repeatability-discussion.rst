@@ -75,7 +75,7 @@ results aren't robust. (For more, read `this excellent Wikipedia
 article <https://en.wikipedia.org/wiki/Reproducibility>`__, and you
 can also read Dorothy Bishop's `excellent discussion of the
 reproducibility crisis in
-psychology. <http://deevybee.blogspot.com/2016/03/there-is-reproducibility-crisis-in.html>`__.
+psychology. <http://deevybee.blogspot.com/2016/03/there-is-reproducibility-crisis-in.html>`__)
 Consider the second story above - if neither Amanda nor Julio's data
 analysis workflow had been easy to repeat, it would have been
 difficult to know whether data analysis was the source of the
