@@ -65,9 +65,9 @@ Building a Makefile
 
 Now, let's walk through the first two bits of the make lesson:
 
-1. `Automation and Make: Introduction <https://swcarpentry.github.io/make-novice/01-intro.html>`__
+1. `Automation and Make: Introduction <https://swcarpentry.github.io/make-novice/01-intro/>`__
 
-2. `Makefiles <https://swcarpentry.github.io/make-novice/02-makefiles.html>`__.
+2. `Makefiles <https://swcarpentry.github.io/make-novice/02-makefiles/>`__.
 
 When the time comes to edit files, you can do so in the Jupyter
 console by entering the make-lesson folder, creating a New... Text
